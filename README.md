@@ -14,6 +14,13 @@ Built with [Ollama](https://ollama.com/), [LangChain](https://www.langchain.com/
 
 ---
 
+## 🧠 Models Used
+
+- **LLM:** [`gemma3:1b`](https://ollama.com/library/gemma3)
+- **Embeddings:** [`mxbai-embed-large`](https://ollama.com/library/mxbai-embed-large)
+
+---
+
 ## 📝 Example Questions
 
 - "Do they have vegan cheese?"
