@@ -32,5 +32,10 @@ Built with [Ollama](https://ollama.com/), [LangChain](https://www.langchain.com/
 
 ## 📸 Screenshots
 
-![App Screenshot](Screenshot.png)
+![App Screenshot](Screenshot1.png)
 *Figure: The Gradio web interface of the Pizza Restaurant RAG Chatbot*
+
+![App Screenshot](Screenshot2.png)
+*Figure: The Gradio web interface of the Pizza Restaurant RAG Chatbot*
+
+
